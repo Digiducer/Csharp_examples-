@@ -6,3 +6,5 @@ It also includes a simple example code to display the data read from the sensor.
 
 Each Digiducer contains in the name calibration information traceable back to national standards to convert the raw samples into 
 engineering units of acceleration ratio.
+
+Additional details about the sensor can be found at http://digiducer.com/?aff=3
